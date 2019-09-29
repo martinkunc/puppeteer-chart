@@ -10,6 +10,7 @@ The data captured by performance Trace are in json form and has lots ot other in
 
 ### Dependencies
 MacOs
+
 brew install pkg-config
 brew install freetype
 brew install cairo
